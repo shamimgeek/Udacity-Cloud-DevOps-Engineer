@@ -15,6 +15,7 @@ Learn to design and deploy infrastructure as code, build and monitor CI/CD pipel
 
 - [Deply static website on AWS](./deploy-static-website)
 - [Deploy a high-availability website app using CloudFormation](./deploy-highly-available-website)
+- [Jenkins pipeline on AWS](./jenkins-pipeline-aws)
 
 ### Certificate
 
