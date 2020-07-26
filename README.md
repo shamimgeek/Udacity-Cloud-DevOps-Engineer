@@ -18,4 +18,4 @@ Learn to design and deploy infrastructure as code, build and monitor CI/CD pipel
 
 ### Certificate
 
-- [View]()
+- [Yet to come]()
