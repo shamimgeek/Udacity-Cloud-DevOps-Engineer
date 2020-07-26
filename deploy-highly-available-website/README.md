@@ -45,5 +45,7 @@ your private subnets. The launch configuration will be used by an auto-scaling g
 Services stack outputs the final website URL.
 
   ```
-
+   link: http://highl-webap-sgke47w7ezma-1967872643.eu-central-1.elb.amazonaws.com/
   ```
+### Website Screenshot
+![Website Screenshot](./website.png)
