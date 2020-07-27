@@ -1,5 +1,7 @@
 # Operationalize Machine Learning Microservice API.
 
+[![<ORG_NAME>](https://circleci.com/gh/shamimgeek/operationalize-a-machine-learning-microservice-api.svg?style=svg)](https://circleci.com/gh/shamimgeek/operationalize-a-machine-learning-microservice-api)
+
 Deploying an elastic and fault-tolerant Machine Learning inference API using Kubernetes. Configure this
 microservice to be highly available by using Kubernetes best practices. Validate the design by load testing the service and verifying the application architecture performs as designed.
 
