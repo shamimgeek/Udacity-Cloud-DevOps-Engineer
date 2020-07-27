@@ -1,0 +1,17 @@
+[sakhtar@linux operationalize-a-machine-learning-microservice-api]$ ./make_prediction.sh 
+Port: 8080
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+
+
+[sakhtar@linux operationalize-a-machine-learning-microservice-api]$ ./run_kubernetes.sh 
+pod/udacitydevops created
+NAME            READY   STATUS              RESTARTS   AGE
+udacitydevops   0/1     ContainerCreating   0          0s
+Forwarding from 127.0.0.1:8080 -> 80
+Forwarding from [::1]:8080 -> 80
+Handling connection for 8080

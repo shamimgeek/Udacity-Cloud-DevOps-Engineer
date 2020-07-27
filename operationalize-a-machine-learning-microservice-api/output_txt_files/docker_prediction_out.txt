@@ -1,0 +1,8 @@
+[sakhtar@linux operationalize-a-machine-learning-microservice-api]$ ./make_prediction.sh 
+Port: 8080
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+[sakhtar@linux operationalize-a-machine-learning-microservice-api]$
